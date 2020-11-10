@@ -73,7 +73,7 @@ public class CRUDFbUi {
 		}
 		
 		//checks that the message edited has been edited correctly
-		Thread.sleep(2000);
+		Thread.sleep(3000);
 		String text = this.driver.findElement(By.xpath(this.firstPostTextPath)).getText();  
         Assert.assertEquals(text, this.message + this.message);
         System.out.println("Post edition completed");
@@ -92,7 +92,7 @@ public class CRUDFbUi {
 		this.driver.findElement(By.xpath("//span[text()=\"Eliminar\"]")).click();
         
 		//checks that the message deleted has been deleted correctly (get function should get another post different than the deleted one)
-		Thread.sleep(2000);
+		Thread.sleep(3000);
 		String text = this.driver.findElement(By.xpath(this.firstPostTextPath)).getText();  
         Assert.assertNotEquals(text, this.message + this.message);
 		System.out.println("Post deletion ended");
