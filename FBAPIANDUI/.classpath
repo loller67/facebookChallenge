@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/luca/eclipse-workspace/FBAPIANDUILUCAOLLER/jars/selenium-server-4.0.0-alpha-6.jar"/>
+	<classpathentry kind="lib" path="/home/luca/eclipse-workspace/FBAPIANDUILUCAOLLER/jars/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="/home/luca/eclipse-workspace/FBAPIANDUILUCAOLLER/jars/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/luca/eclipse-workspace/FBAPIANDUILUCAOLLER/jars/facebook4j-core-2.4.13.jar"/>
+	<classpathentry kind="lib" path="/home/luca/eclipse-workspace/FBAPIANDUILUCAOLLER/jars/commons-pool2-2.8.1.jar"/>
+	<classpathentry kind="lib" path="/home/luca/eclipse-workspace/FBAPIANDUILUCAOLLER/jars/selenium-support-3.141.0.jar"/>
+	<classpathentry kind="lib" path="/home/luca/eclipse-workspace/FBAPIANDUILUCAOLLER/jars/selenium-safari-driver-3.141.0.jar"/>
+	<classpathentry kind="lib" path="/home/luca/eclipse-workspace/FBAPIANDUILUCAOLLER/jars/selenium-remote-driver-3.141.0.jar"/>
+	<classpathentry kind="lib" path="/home/luca/eclipse-workspace/FBAPIANDUILUCAOLLER/jars/selenium-opera-driver-3.141.0.jar"/>
+	<classpathentry kind="lib" path="/home/luca/eclipse-workspace/FBAPIANDUILUCAOLLER/jars/selenium-java-3.141.0.jar"/>
+	<classpathentry kind="lib" path="/home/luca/eclipse-workspace/FBAPIANDUILUCAOLLER/jars/selenium-ie-driver-3.141.0.jar"/>
+	<classpathentry kind="lib" path="/home/luca/eclipse-workspace/FBAPIANDUILUCAOLLER/jars/selenium-firefox-driver-3.141.0.jar"/>
+	<classpathentry kind="lib" path="/home/luca/eclipse-workspace/FBAPIANDUILUCAOLLER/jars/selenium-edge-driver-3.141.0.jar"/>
+	<classpathentry kind="lib" path="/home/luca/eclipse-workspace/FBAPIANDUILUCAOLLER/jars/selenium-chrome-driver-3.141.0.jar"/>
+	<classpathentry kind="lib" path="/home/luca/eclipse-workspace/FBAPIANDUILUCAOLLER/jars/selenium-api-3.141.0.jar"/>
+	<classpathentry kind="lib" path="/home/luca/eclipse-workspace/FBAPIANDUILUCAOLLER/jars/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="/home/luca/eclipse-workspace/FBAPIANDUILUCAOLLER/jars/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="/home/luca/eclipse-workspace/FBAPIANDUILUCAOLLER/jars/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="/home/luca/eclipse-workspace/FBAPIANDUILUCAOLLER/jars/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="/home/luca/eclipse-workspace/FBAPIANDUILUCAOLLER/jars/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="/home/luca/eclipse-workspace/FBAPIANDUILUCAOLLER/jars/error_prone_annotations-2.1.3.jar"/>
+	<classpathentry kind="lib" path="/home/luca/eclipse-workspace/FBAPIANDUILUCAOLLER/jars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="/home/luca/eclipse-workspace/FBAPIANDUILUCAOLLER/jars/checker-compat-qual-2.0.0.jar"/>
+	<classpathentry kind="lib" path="/home/luca/eclipse-workspace/FBAPIANDUILUCAOLLER/jars/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="/home/luca/eclipse-workspace/FBAPIANDUILUCAOLLER/jars/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="/home/luca/eclipse-workspace/FBAPIANDUILUCAOLLER/jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/luca/eclipse-workspace/FBAPIANDUILUCAOLLER/jars/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="/home/luca/eclipse-workspace/FBAPIANDUILUCAOLLER/jars/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="/home/luca/eclipse-workspace/FBAPIANDUILUCAOLLER/jars/commons-codec-1.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
