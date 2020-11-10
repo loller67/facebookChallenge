@@ -1,4 +1,4 @@
-#Facebook #Challenge
+Facebook Challenge
 
 Write Create/Update/Delete tests for a single Facebook post on Facebook (ability to
 create/update/delete post using Facebook API (API tests, UI - Selenium)
